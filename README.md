@@ -5,7 +5,7 @@
 <div class="w3-container" style="padding:0px 0px" id="atas"></div>
 <div class="w3-container" style="padding:0px 0px" id="beranda"></div>
 
-# [Gerbang Ekonomi Masa Depan 丰](https://ruangsaldo.github.io)
+# [Ruang Saldo Gerbang Ekonomi Masa Depan 丰](https://ruangsaldo.github.io)
 <nav>
     <ul>
         <li><a href="#beranda"> Beranda</a></li>
